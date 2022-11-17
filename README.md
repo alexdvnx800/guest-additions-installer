@@ -1,4 +1,4 @@
-# VirtualBox_guest_additions_instsller
+# guesaddiionsinstaller
 I created this tool to simplify your life. because when you install the guest additions on virtual box there are 2000 commands :)
 but with this creation they will become just one command. this file .sh and only for debian and ubuntu.
 
