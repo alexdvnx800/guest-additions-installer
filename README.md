@@ -1,6 +1,6 @@
-# guesaddiionsinstaller
+# guest addiions installer
 I created this tool to simplify your life. because when you install the guest additions on virtual box there are 2000 commands :)
-but with this creation they will become just one command. this file .sh and only for debian and ubuntu.
+but with this creation they will become just one command. this file .sh and only for Debian and Ubuntu.
 
 Type these three commands into the terminal
 1. cd your folder
